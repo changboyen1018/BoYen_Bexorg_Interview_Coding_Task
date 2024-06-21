@@ -35,4 +35,5 @@ The code is well-commented, providing detailed explanations of the functionality
 
 ## Contributing
 Contributed by Bo-Yen (Danny) Chang, assisted with LLM tools for refinement.
-changboyen@berkeley.edu
+Feel free to contact me via changboyen [at] berkeley [dot] edu
+
